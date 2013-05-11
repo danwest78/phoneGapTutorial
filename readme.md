@@ -1,4 +1,6 @@
-# PhoneGap Workshop #
+# Copied from http://coenraets.org/blog/phonegap-tutorial/ PhoneGap Workshop #
+
+Using this as a starter for phonegap development
 
 In this tutorial, you create a fully functional employee directory application with PhoneGap. You will learn:
 
